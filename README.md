@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://img.shields.io/badge/school-St.%20Robert%20CHS-blue)
+![](https://img.shields.io/badge/school-St.%20Robert%20CHS-228B22)
 
 <!--
 **ChristopherYing/ChristopherYing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
