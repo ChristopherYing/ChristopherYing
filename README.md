@@ -2,6 +2,11 @@
 
 [![](https://img.shields.io/badge/school-St.%20Robert%20CHS-228B22)](https://stro.ycdsb.ca/)
 
+I'm Christopher Ying, high school student at St. Robert CHS.
+
+My personal account is [@ChrispyMC](https://github.com/ChrispyMC).
+
+
 <!--
 **ChristopherYing/ChristopherYing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
