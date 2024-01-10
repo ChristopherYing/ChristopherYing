@@ -4,7 +4,7 @@
 
 I'm Christopher Ying, high school student at St. Robert CHS.
 
-My personal account is [@ChrispyMC](https://github.com/ChrispyMC).
+My personal account is [@krqt](https://github.com/krqt).
 
 
 <!--
